@@ -1,2 +1,5 @@
 server:
   port: 2010
+
+config:
+  version: 1.0
