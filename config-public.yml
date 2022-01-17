@@ -1,5 +1,3 @@
-server:
-  port: 2030
 
 config:
   version: 2.0
